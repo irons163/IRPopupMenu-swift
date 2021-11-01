@@ -1,0 +1,6 @@
+framework module IRPopupMenu_swift {
+  umbrella header "IRPopupMenu-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

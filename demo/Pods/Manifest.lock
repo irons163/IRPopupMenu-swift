@@ -1,0 +1,16 @@
+PODS:
+  - IRPopupMenu-swift (1.0.0)
+
+DEPENDENCIES:
+  - IRPopupMenu-swift
+
+SPEC REPOS:
+  trunk:
+    - IRPopupMenu-swift
+
+SPEC CHECKSUMS:
+  IRPopupMenu-swift: aeb8c9d06a8a916a1843ce170b7cf1406ebefe88
+
+PODFILE CHECKSUM: bb761d8316ec3d82252df706d6d8681d01fa255e
+
+COCOAPODS: 1.10.0
